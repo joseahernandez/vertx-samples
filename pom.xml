@@ -16,6 +16,7 @@
         <module>02_ClientHelloWorld</module>
         <module>03_ServerHelloWorldVerticle</module>
         <module>04_ClientHelloWorldVerticle</module>
+        <module>05_Verticles</module>
     </modules>
 
 </project>
