@@ -17,6 +17,7 @@
         <module>03_ServerHelloWorldVerticle</module>
         <module>04_ClientHelloWorldVerticle</module>
         <module>05_Verticles</module>
+        <module>06_EventBusPublishSubscribe</module>
     </modules>
 
 </project>
