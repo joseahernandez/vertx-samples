@@ -18,6 +18,7 @@
         <module>04_ClientHelloWorldVerticle</module>
         <module>05_Verticles</module>
         <module>06_EventBusPublishSubscribe</module>
+        <module>07_EventBusPointToPoint</module>
     </modules>
 
 </project>
