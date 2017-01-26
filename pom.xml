@@ -19,6 +19,7 @@
         <module>05_Verticles</module>
         <module>06_EventBusPublishSubscribe</module>
         <module>07_EventBusPointToPoint</module>
+        <module>08_EventBusRequestResponse</module>
     </modules>
 
 </project>
