@@ -1,3 +1,3 @@
 # Vert.x Samples
 
-WIP samples for post in blog
+Samples for post at http://josehernandez.xyz/2017/01/28/vertx.html
